@@ -1,0 +1,6 @@
+{
+  "name": "MIKAN — Sparkling Tangerine Soda",
+  "description": "Poster-aesthetic product website for MIKAN sparkling tangerine soda, featuring multi-layer parallax, flat vector Swiss poster design, smooth scroll, and sticky scrollytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
